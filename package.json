@@ -1,5 +1,5 @@
 {
-  "homepage": "http://gazanfarli.github.io/react-movie-organizer",
+  "homepage": "https://gazanfarli.github.io/react-movie-organizer",
   "name": "movie_organizer",
   "version": "0.1.0",
   "private": true,
@@ -40,19 +40,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
-  },
-  "author": "Gazanfarli",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Gazanfarli/react-movie-organizer.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Gazanfarli/react-movie-organizer/issues"
   }
 }
