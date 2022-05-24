@@ -6,7 +6,7 @@ function Movies(props) {
     const [defaultMovies, setDefaultMovies] = useState([]);
 
     useEffect(() => {
-        fetch("http://www.omdbapi.com/?i=tt3896198&apikey=7fbe6f8&s=star wars")
+        fetch("https://www.omdbapi.com/?i=tt3896198&apikey=7fbe6f8&s=star wars")
         .then(res => res.json())
         .then(data => setDefaultMovies(data));
     }, [])
