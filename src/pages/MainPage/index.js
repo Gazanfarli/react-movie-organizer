@@ -10,7 +10,7 @@ function MainPage() {
     const [searchValue, setSearchValue] = useState("");
 
     const api_key = "7fbe6f8";
-    let url = `http://www.omdbapi.com/?i=tt3896198&apikey=${api_key}&s=${searchValue}`;
+    let url = `https://www.omdbapi.com/?i=tt3896198&apikey=${api_key}&s=${searchValue}`;
     
     const searchChangeHandler = (e) => {
         setSearchValue(e.target.value);
