@@ -1,6 +1,6 @@
 # React Movie Organizer
 
-## Project deployed: https://628c7accf78db14133acc2a4--gilded-crostata-061b04.netlify.app/
+## Project deployed: https://gilded-crostata-061b04.netlify.app/
 
 ## Available Scripts
 
